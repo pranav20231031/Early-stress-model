@@ -10,7 +10,7 @@ Original file is located at
 import requests
 import time
 import pandas as pd
-api_key = "fs2KHs6H0uUeLALmHrZtcMYydiSHzQHHrczvgPEU"
+api_key = ""
 base_url = "https://banks.data.fdic.gov/api"
 
 import pandas as pd
